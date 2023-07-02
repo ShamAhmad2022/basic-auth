@@ -2,11 +2,11 @@
 ## basic-auth
 Author: Sham Al-Jalam
 
-* deployed application : [https://api-server-5vp7.onrender.com/](https://api-server-5vp7.onrender.com/)
+* deployed application : [https://basic-auth-d6qn.onrender.com/](https://basic-auth-d6qn.onrender.com/)
 
-* Github actions: [https://github.com/ShamAhmad2022/api-server/actions](https://github.com/ShamAhmad2022/api-server/actions)
+* Github actions: [https://github.com/ShamAhmad2022/basic-auth/actions](https://github.com/ShamAhmad2022/basic-auth/actions)
 
-*  pull request: [https://github.com/ShamAhmad2022/api-server/pull/4](https://github.com/ShamAhmad2022/api-server/pull/4)
+*  pull request: [https://github.com/ShamAhmad2022/basic-auth/pull/1](https://github.com/ShamAhmad2022/basic-auth/pull/1)
 
 ### Setup:
 .env requirements:
